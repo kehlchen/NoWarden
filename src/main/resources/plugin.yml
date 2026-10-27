@@ -1,0 +1,5 @@
+name: NoWarden
+version: 1.0
+main: de.robin.nowarden.NoWarden
+api-version: "26.2"
+description: Verhindert das Spawnen von Wardens.
